@@ -1,0 +1,16 @@
+Package: SSRAdiag
+Title: Diagnostic tool for plotting Stochastic Stock Reduction Analysis
+Version: 0.0.1.0
+Authors@R: 
+    person(
+        given = "Deepak",
+        family = "Pazhayamadom",
+        role = c("aut", "cre"),
+        email = "deepakgeorgep@gmail.com"
+    )
+Description: Helper functions for compiling, preparing, and visualising
+    data for Stochastic Stock Reduction Analysis models.
+Depends:
+    R (>= 4.5.2)
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
